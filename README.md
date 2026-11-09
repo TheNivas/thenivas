@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @thenivas<br>👀 I’m interested in Back-End Development<br>🌱 I’m currently learning Spark and FastAPI<br>💞️ I’m looking to collaborate on building interesting projects.<br>📫 How to reach me: nivas@outlook.in
+👋 Hi, I’m @thenivas<br>👀 I’m  Back-End Developert<br>🌱 I use Scala with Play and Akka to develop and maintain distributed systems. <br> I use Python for data pipelines and visualization sctipts for AWS Lambda.<br>I’m currently learning Spark and FastAPI<br>💞️ I’m looking to collaborate on building interesting projects.<br>📫 How to reach me: nivas@outlook.in
 
 
 ## 🌐 Socials:
